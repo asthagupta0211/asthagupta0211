@@ -1,7 +1,7 @@
 
 <!-- HERO SECTION -->
 <div align="center" style="width:100%;">
-<img src="https://drive.google.com/uc?export=view&id=1aabd4v3IaFcTQ9JkeBdjHWPCtFgs2U3" 
+<img src="https://drive.google.com/uc?export=view&id=1aabd4v3IaFcTQ9JkeBdjHWPCtFgs2U3r" 
 style="width:100%; max-width:1100px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.4);" alt="Portfolio Banner" />
 </div>
 
@@ -74,7 +74,7 @@ I am a <b>1st-year AIML student</b> passionate about learning programming, build
 </a>
 
 <a href="YOUR_GITHUB">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+<img src="https://drive.google.com/uc?export=view&id=1aabd4v3IaFcTQ9JkeBdjHWPCtFgs2U3r"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
