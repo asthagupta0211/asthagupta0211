@@ -1,7 +1,7 @@
 
 <!-- HERO SECTION -->
 <div align="center" style="width:100%;">
-<img src="https://drive.google.com/uc?export=view&id=1aabd4v3IaFcTQ9JkeBdjHWPCtFgs2U3r" 
+<img src="https://drive.google.com/uc?export=view&id=1twc7bYJQzWvDZ8L2uQS1SXlx2dShjYac" 
 style="width:100%; max-width:1100px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.4);" alt="Portfolio Banner" />
 </div>
 
@@ -70,11 +70,11 @@ I am a <b>1st-year AIML student</b> passionate about learning programming, build
 <div align="center">
 
 <a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Astha_Gupta-blue?style=for-the-badge&logo=linkedin"/>
+<img src="[https://img.shields.io/badge/LinkedIn-Astha_Gupta-blue?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/astha-gupta-a77456380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"/>
 </a>
 
 <a href="YOUR_GITHUB">
-<img src="https://drive.google.com/uc?export=view&id=1aabd4v3IaFcTQ9JkeBdjHWPCtFgs2U3r"/>
+<img src="[https://drive.google.com/uc?export=view&id=1aabd4v3IaFcTQ9JkeBdjHWPCtFgs2U3r](https://github.com/asthagupta0211)"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
